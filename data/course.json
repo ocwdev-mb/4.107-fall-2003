@@ -1,0 +1,49 @@
+{
+  "term": "Fall",
+  "year": "2003",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Fine Arts",
+      "Architecture",
+      "Architectural Design"
+    ],
+    [
+      "Fine Arts",
+      "Architecture",
+      "Architectural History and Criticism"
+    ]
+  ],
+  "legacy_uid": "3d83e1df-185a-88be-a839-58ed23b84408",
+  "instructors": {
+    "content": [
+      "5cf93f98-5f34-b91c-e2c3-e6b5c1371dc5",
+      "42b97d24-f31c-4d72-2e70-94b7ef7abe48"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "9e1d1a27-af3f-2831-c4b8-62d8f6d030a7",
+    "website": "4-107-march-portfolio-seminar-fall-2003"
+  },
+  "course_title": "MArch Portfolio Seminar",
+  "course_description": "The aim of the Portfolio Seminar is to assist in developing a critical position in relationship to their design work. By engaging multiple forms of representation, written and visual, students will explore methods that facilitate describing and representing their design work. Through a critical assessment of their existing portfolios, students will first be challenged to articulate design theses and interests in their past projects. Different mediums of representation will then be studied in order to hone an understanding of the relationship between form and content, and more specifically, the understanding of particular modes of representation as different filters through which their work can be read. Some of the questions that will be addressed are:\n\n*   How does one go about describing an image?\n*   How does one theorize representation?\n*   How does one articulate a design thesis in writing verses visual media?\n*   How can the two interact to enhance each other?\n*   How do different media, printed verses web publishing, affect the representation of work?\n*   How is your work best communicated?\n",
+  "department_numbers": [
+    "4"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "4.107",
+  "course_image_thumbnail": {
+    "content": "00f468b8-aad8-6bd9-d030-043278556bb4",
+    "website": "4-107-march-portfolio-seminar-fall-2003"
+  },
+  "learning_resource_types": [
+    "Written Assignments",
+    "Design Assignments with Examples"
+  ],
+  "site_uid": "55da2e50-66d3-42b3-96db-f61e85f64761",
+  "site_short_id": "4.107-fall-2003",
+  "title": "Course Metadata"
+}
